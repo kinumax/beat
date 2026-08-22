@@ -1,0 +1,3 @@
+NEON BEAT STAR
+Release: 51f8a57
+Graphics: layered 8-stage backgrounds, varied enemy and ally silhouettes
